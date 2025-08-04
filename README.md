@@ -8,7 +8,7 @@ A powerful desktop application for calculating file hashes with comprehensive Vi
 
 ## ✨ Key Features
 
-- 🔐 **Multi-Hash Support**: MD5, SHA1, SHA256, and SHA512 calculation
+- 🔐 **Multi-Hash Support**: MD5, SHA1, SHA256 calculation
 - 🦠 **VirusTotal Integration**: Security analysis with 40+ antivirus engines  
 - 🎨 **Modern UI**: Dark/light theme with tabbed interface
 - 📁 **Batch Processing**: Process files and folders recursively
@@ -107,5 +107,6 @@ This project is licensed under a **Non-Commercial License**. See the [LICENSE](L
 ---
 
 **Built with ❤️ for the cybersecurity community**
+
 
 
