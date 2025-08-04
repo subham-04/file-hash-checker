@@ -1,6 +1,6 @@
 # File Hash Calculator
 
-A powerful Windows desktop application for calculating file hashes with comprehensive VirusTotal integration. Built with Python and tkinter, featuring modern dark/light theme support and secure API management.
+A powerful desktop application for calculating file hashes with comprehensive VirusTotal integration. Built with Python and tkinter, featuring modern dark/light theme support and secure API management.
 
 ![Python](https://img.shields.io/badge/python-3.7+-green)
 ![License](https://img.shields.io/badge/license-Non--Commercial-red)
@@ -107,4 +107,5 @@ This project is licensed under a **Non-Commercial License**. See the [LICENSE](L
 ---
 
 **Built with ❤️ for the cybersecurity community**
+
 
